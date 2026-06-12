@@ -23,3 +23,7 @@ O Aula Manager tem como objetivo fornecer uma plataforma única para gerenciamen
 * Acompanhamento do desempenho dos alunos
 * Redução de processos manuais
 * Maior eficiência na gestão educacional
+
+Diferencial da Solução
+
+Diferentemente de plataformas tradicionais de gestão de sala de aula, o Aula Manager oferece o conceito de Missões de Aprendizagem. Cada missão representa uma sequência estruturada de atividades, materiais e avaliações relacionadas a um determinado tema ou competência. Isso permite que os estudantes acompanhem sua evolução de forma mais intuitiva e organizada, enquanto os professores podem planejar melhor o processo de aprendizagem.
