@@ -2,7 +2,7 @@
 
 ## Problema
 
-Muitas instituições de ensino acabam enfrentando dificuldades para centralizar a gestão das atividades acadêmicas, utilizando diferentes ferramentas para comunicação, compartilhamento de materiais, aplicação de avaliações e acompanhamento dos estudantes. Todo esse processo pode acabar gerando perda de informações, dificuldades de organização e redução da eficiência do processo educacional.
+Muitas instituições de ensino acabam passando por dificuldades para acabar centralizando a gestão das atividades acadêmicas, utilizando diferentes ferramentas para comunicação, compartilhamento de materiais, aplicação de avaliações e acompanhamento dos estudantes. Todo esse processo pode acabar gerando perda de informações, dificuldades de organização e redução da eficiência do processo educacional.
 
 ## Público-Alvo
 
