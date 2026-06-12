@@ -8,6 +8,10 @@ O Aula Manager é uma plataforma digital desenvolvida para auxiliar instituiçõ
 
 Oferecer uma solução simples e eficiente para apoiar o processo de ensino-aprendizagem, facilitando a comunicação entre professores e estudantes e a organização das atividades acadêmicas.
 
+## Diferencial do Sistema
+
+O Aula Manager possui um sistema de Missões de Aprendizagem, permitindo que professores organizem conteúdos, atividades e avaliações em trilhas de aprendizado estruturadas. Os estudantes podem acompanhar seu progresso em cada missão, visualizando etapas concluídas e pendentes até a conclusão dos objetivos propostos.
+
 ## Funcionalidades Principais
 
 * Cadastro e autenticação de usuários
@@ -39,4 +43,6 @@ Oferecer uma solução simples e eficiente para apoiar o processo de ensino-apre
 * Draw.io
 * Bizagi Modeler
 * Markdown
+
+
 
