@@ -4,8 +4,6 @@
 
 O MVP do Aula Manager tem como objetivo disponibilizar as funcionalidades essenciais para gerenciamento de salas de aula online, permitindo que professores organizem turmas, publiquem atividades, criem missões de aprendizagem e acompanhem o desempenho dos estudantes.
 
-⸻
-
 # Funcionalidades Essenciais (MVP)
 
 ## Autenticação de Usuários
@@ -35,8 +33,6 @@ O MVP do Aula Manager tem como objetivo disponibilizar as funcionalidades essenc
 * Acompanhar progresso da missão
 * Atualizar progresso automaticamente
 
-⸻
-
 # Funcionalidades Futuras
 
 ## Comunicação
@@ -62,8 +58,6 @@ O MVP do Aula Manager tem como objetivo disponibilizar as funcionalidades essenc
 ## Aplicativo Mobile
 
 * Aplicação para Android e iOS
-
-⸻
 
 # Justificativa da Priorização
 
