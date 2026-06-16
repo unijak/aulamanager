@@ -14,7 +14,6 @@ Critérios de Aceitação
 * O nome da turma é obrigatório.
 * O sistema deve gerar um código único para a turma.
 
-⸻
 
 ## US02 – Ingressar em Turma
 
@@ -30,7 +29,6 @@ Critérios de Aceitação
 * Apenas estudantes matriculados podem acessar os conteúdos da turma.
 * O sistema deve confirmar a matrícula na turma.
 
-⸻
 
 ## US03 – Criar Atividade
 
@@ -46,7 +44,6 @@ Critérios de Aceitação
 * Toda atividade deve possuir título e descrição.
 * Toda atividade deve possuir uma data limite para entrega.
 
-⸻
 
 ## US04 – Visualizar Atividades
 
@@ -62,7 +59,6 @@ Critérios de Aceitação
 * O sistema deve exibir os prazos de entrega.
 * O estudante deve visualizar apenas atividades de turmas em que está matriculado.
 
-⸻
 
 ## US05 – Entregar Atividade
 
@@ -78,7 +74,6 @@ Critérios de Aceitação
 * O sistema deve registrar a data da entrega.
 * O sistema deve confirmar o envio realizado.
 
-⸻
 
 ## US06 – Corrigir Atividade
 
@@ -94,7 +89,6 @@ Critérios de Aceitação
 * A nota deve ser registrada no sistema.
 * O professor pode adicionar comentários sobre a avaliação.
 
-⸻
 
 ## US07 – Criar Missão de Aprendizagem
 
@@ -110,7 +104,6 @@ Critérios de Aceitação
 * A missão deve conter pelo menos uma atividade.
 * O professor pode associar várias atividades à mesma missão.
 
-⸻
 
 ## US08 – Acompanhar Progresso da Missão
 
