@@ -1,6 +1,6 @@
-User Stories
+# User Stories
 
-US01 – Criar Turma
+## US01 – Criar Turma
 
 Como professor,
 
@@ -16,7 +16,7 @@ Critérios de Aceitação
 
 ⸻
 
-US02 – Ingressar em Turma
+## US02 – Ingressar em Turma
 
 Como estudante,
 
@@ -32,7 +32,7 @@ Critérios de Aceitação
 
 ⸻
 
-US03 – Criar Atividade
+## US03 – Criar Atividade
 
 Como professor,
 
@@ -48,7 +48,7 @@ Critérios de Aceitação
 
 ⸻
 
-US04 – Visualizar Atividades
+## US04 – Visualizar Atividades
 
 Como estudante,
 
@@ -64,7 +64,7 @@ Critérios de Aceitação
 
 ⸻
 
-US05 – Entregar Atividade
+## US05 – Entregar Atividade
 
 Como estudante,
 
@@ -80,7 +80,7 @@ Critérios de Aceitação
 
 ⸻
 
-US06 – Corrigir Atividade
+## US06 – Corrigir Atividade
 
 Como professor,
 
@@ -96,7 +96,7 @@ Critérios de Aceitação
 
 ⸻
 
-US07 – Criar Missão de Aprendizagem
+## US07 – Criar Missão de Aprendizagem
 
 Como professor,
 
@@ -112,7 +112,7 @@ Critérios de Aceitação
 
 ⸻
 
-US08 – Acompanhar Progresso da Missão
+## US08 – Acompanhar Progresso da Missão
 
 Como estudante,
 
